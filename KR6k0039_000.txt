@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 根本薩婆多部律攝
+#+DATE: 2015-08-30 20:42:39.835282
+#+PROPERTY: JUAN 0
